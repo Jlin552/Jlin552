@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jlin552
+- 👀 I’m interested in anything coding related
+- 🌱 I’m currently learning Python 
+- 💞️ I’m looking to collaborate on projects 
+- 📫 How to reach me linjason552@gmail.com
